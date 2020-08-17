@@ -1,0 +1,17 @@
+h1 {
+    color: indigo;
+    font-size: 50px;
+    font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 10 px;
+}
+
+div{
+    background-color: lightblue;
+}
+
+ul {
+    list-style-type: none;
+}
