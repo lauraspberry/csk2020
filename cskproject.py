@@ -6,7 +6,7 @@ import tictactoe
 import guess
 
 typing_speed = 350
-def slow_type(msg): #maybe include special OWO syntax here
+def slow_type(msg): #maybe include special OWO syntax here -> this has lotsa potential hehe
     for letter in msg:
         sys.stdout.write(letter)
         sys.stdout.flush()
